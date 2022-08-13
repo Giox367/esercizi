@@ -1,0 +1,13 @@
+.bgimg {
+
+    background-image: url(./image.webp);
+    background-size: 100%;
+    height: 300px;
+    background-position: left;
+    
+}
+.imp {
+
+    margin: 10px;
+    display: block;
+}
