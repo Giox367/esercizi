@@ -1,0 +1,62 @@
+.topbar ion-icon {
+
+    font-size: 2em;
+    cursor: pointer;
+
+}
+
+.topbar p {
+    font-size: 20px;
+}
+
+.topbar {
+    padding: 4em;
+    display: flex;
+    justify-content: space-between;
+    padding: 5em;
+    padding-bottom: 0%;
+
+}
+
+.logo {
+    text-align: center;
+    
+}
+
+body{
+
+    
+    
+    font-family: Lato, Helvetica, sans-serif;
+
+
+
+}
+h1 {
+
+    text-align: center;
+    padding: 2em;
+    padding-top: 0.5;
+}
+
+table {    
+    
+    border: 1px solid #000;    
+    background-color: #ccc;
+}
+ td {
+    text-align: center;
+    border: 0.5px solid;
+    height: 2em;
+    width: 150px;
+ }
+ tr{
+    height: 2em;
+    
+ }
+footer{
+
+    background-color: black;
+    color: white
+    ;
+}
